@@ -19,10 +19,14 @@ This repository contains my JavaScript practice, exercises, and mini projects as
 
 ## 📂 Repository Structure
 
-```
+```text
 JavaScript/
 │
 ├── Day-01/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-02/
 │   ├── index.html
 │   └── script.js
 │
