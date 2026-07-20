@@ -9,10 +9,10 @@ This repository contains my JavaScript practice, exercises, and mini projects as
 ### ✅ Completed
 
 - Day 01 - Variables & `console.log()`
+- Day 02 - Data Types & Operators
 
 ### 🔜 Upcoming
 
-- Day 02 - Data Types & Operators
 - Day 03 - Conditional Statements
 - Day 04 - Loops
 - Day 05 - Functions
