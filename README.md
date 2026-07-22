@@ -11,10 +11,10 @@ This repository contains my JavaScript practice, exercises, and mini projects as
 - Day 01 - Variables & `console.log()`
 - Day 02 - Data Types & Operators
 - Day 03 - Conditional Statements
+- Day 04 - Loops
 
 ### 🔜 Upcoming
 
-- Day 04 - Loops
 - Day 05 - Functions
 
 ## 📂 Repository Structure
@@ -31,6 +31,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-03/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-04/
 │   ├── index.html
 │   └── script.js
 │
