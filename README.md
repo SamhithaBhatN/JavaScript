@@ -1,8 +1,8 @@
 # JavaScript Learning Journey
 
-Welcome to my JavaScript learning repository.
+Welcome to my JavaScript learning repository! 👋
 
-This repository contains my JavaScript practice, exercises, and mini projects as I learn JavaScript from the basics to advanced concepts.
+This repository contains my daily JavaScript practice, exercises, and mini projects as I learn JavaScript from the basics to advanced concepts.
 
 ## 📚 Learning Progress
 
@@ -12,10 +12,16 @@ This repository contains my JavaScript practice, exercises, and mini projects as
 - Day 02 - Data Types & Operators
 - Day 03 - Conditional Statements
 - Day 04 - Loops
-
-### 🔜 Upcoming
-
 - Day 05 - Functions
+
+### 🔜 Upcoming Topics
+
+- Day 06 - Arrays
+- Day 07 - Objects
+- Day 08 - Strings
+- Day 09 - Math & Number Methods
+- Day 10 - DOM Manipulation
+- And many more...
 
 ## 📂 Repository Structure
 
@@ -38,9 +44,19 @@ JavaScript/
 │   ├── index.html
 │   └── script.js
 │
+├── Day-05/
+│   ├── index.html
+│   └── script.js
+│
 └── README.md
 ```
+
+## 🎯 Goal
+
+To build a strong foundation in JavaScript by learning one topic at a time and practicing with examples and exercises every day.
 
 ## 👩‍💻 Author
 
 **Samhitha Bhat**
+
+Happy Coding! 🚀
