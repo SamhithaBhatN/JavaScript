@@ -13,10 +13,10 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 03 - Conditional Statements
 - Day 04 - Loops
 - Day 05 - Functions
+- Day 06 - Arrays
 
 ### 🔜 Upcoming Topics
 
-- Day 06 - Arrays
 - Day 07 - Objects
 - Day 08 - Strings
 - Day 09 - Math & Number Methods
@@ -45,6 +45,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-05/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-06/
 │   ├── index.html
 │   └── script.js
 │
