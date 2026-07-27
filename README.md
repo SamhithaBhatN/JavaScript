@@ -15,10 +15,10 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 05 - Functions
 - Day 06 - Arrays
 - Day 07 - Objects
+- Day 08 - Strings
 
 ### 🔜 Upcoming Topics
 
-- Day 08 - Strings
 - Day 09 - Math & Number Methods
 - Day 10 - DOM Manipulation
 - And many more...
@@ -53,6 +53,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-07/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-08/
 │   ├── index.html
 │   └── script.js
 │
