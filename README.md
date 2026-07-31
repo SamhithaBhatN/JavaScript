@@ -17,10 +17,10 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 07 - Objects
 - Day 08 - Strings
 - Day 09 - Advanced String Methods
+- Day 10 - Math & Number Methods
 
 ### 🔜 Upcoming Topics
 
-- Day 10 - Math & Number Methods
 - Day 11 - DOM Manipulation
 - And many more...
 
@@ -62,6 +62,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-09/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-10/
 │   ├── index.html
 │   └── script.js
 │
