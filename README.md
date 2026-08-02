@@ -18,10 +18,11 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 08 - Strings
 - Day 09 - Advanced String Methods
 - Day 10 - Math & Number Methods
+- Day 11 - DOM Manipulation
 
 ### 🔜 Upcoming Topics
 
-- Day 11 - DOM Manipulation
+- Day 12 - DOM Manipulation
 - And many more...
 
 ## 📂 Repository Structure
@@ -66,6 +67,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-10/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-11/
 │   ├── index.html
 │   └── script.js
 │
