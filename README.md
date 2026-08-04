@@ -21,10 +21,11 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 11 - DOM Manipulation
 - Day 12 - DOM Manipulation
 - Day 13 - DOM Events
+- Day 14 - Forms & Input Validation
 
 ### 🔜 Upcoming Topics
 
-- Day 14 - Forms & Input Validation
+- Day 15 - ES6 Features (Part 1)
 - And many more...
 
 ## 📂 Repository Structure
@@ -81,6 +82,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-13/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-14/
 │   ├── index.html
 │   └── script.js
 │
