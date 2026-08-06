@@ -23,10 +23,11 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 13 - DOM Events
 - Day 14 - Forms & Input Validation
 - Day 15 - ES6 Features (Part 1)
+- Day 16 - ES6 Features (Part 2)
 
 ### 🔜 Upcoming Topics
 
-- Day 16 - ES6 Features (Part 2)
+- Day 17 - Advanced Array Methods
 - And many more...
 
 ## 📂 Repository Structure
@@ -91,6 +92,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-15/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-16/
 │   ├── index.html
 │   └── script.js
 │
