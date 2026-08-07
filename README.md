@@ -26,10 +26,11 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 16 - ES6 Features (Part 2)
 - Day 17 - Advanced Array Methods
 - Day 18 - Advanced Objects
+- Day 19 - Date & Time
 
 ### 🔜 Upcoming Topics
 
-- Day 19 - Date & Time
+- Day 20 - JSON
 - And many more...
 
 ## 📂 Repository Structure
@@ -106,6 +107,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-18/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-19/
 │   ├── index.html
 │   └── script.js
 │
