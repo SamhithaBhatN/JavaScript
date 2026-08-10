@@ -28,10 +28,11 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 18 - Advanced Objects
 - Day 19 - Date & Time
 - Day 20 - JSON
+- Day 21 - Error Handling
 
 ### 🔜 Upcoming Topics
 
-- Day 21 - Error Handling
+- Day 22 - Promises & Asynchronous JavaScript
 - And many more...
 
 ## 📂 Repository Structure
@@ -116,6 +117,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-20/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-21/
 │   ├── index.html
 │   └── script.js
 │
