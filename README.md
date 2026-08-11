@@ -124,6 +124,10 @@ JavaScript/
 │   ├── index.html
 │   └── script.js
 │
+├── Day-22/
+│   ├── index.html
+│   └── script.js
+│
 └── README.md
 ```
 
