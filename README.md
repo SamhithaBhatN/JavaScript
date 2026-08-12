@@ -29,10 +29,11 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 19 - Date & Time
 - Day 20 - JSON
 - Day 21 - Error Handling
+- Day 22 - Promises & Asynchronous JavaScript
 
 ### 🔜 Upcoming Topics
 
-- Day 22 - Promises & Asynchronous JavaScript
+- Day 23 - Async/Await
 - And many more...
 
 ## 📂 Repository Structure
