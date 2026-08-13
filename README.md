@@ -31,10 +31,11 @@ This repository contains my daily JavaScript practice, exercises, and mini proje
 - Day 21 - Error Handling
 - Day 22 - Promises & Asynchronous JavaScript
 - Day 23 - Async/Await & fetch API
+- Day 24 - Fetch API & DOM Integration
 
 ### 🔜 Upcoming Topics
 
-- Day 24 - 
+- Day 25 - Coming next...
 - And many more...
 
 ## 📂 Repository Structure
@@ -131,6 +132,10 @@ JavaScript/
 │   └── script.js
 │
 ├── Day-23/
+│   ├── index.html
+│   └── script.js
+│
+├── Day-24/
 │   ├── index.html
 │   └── script.js
 │
